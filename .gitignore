@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore everything except the src directory
+!/src/
